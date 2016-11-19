@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: Anti-Spam Stop Cast
+## Notes: A StopCast supporting addon to allow the stoppage of casts without instantly cancelling them if mashing
+## Author: Prithu "bladez" Parker
+## Dependencies:
+## SavedVariables:
+## OptionalDeps:
+## X-Category:
+
+AntiSpamStopCast.lua
